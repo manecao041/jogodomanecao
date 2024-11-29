@@ -1,10 +1,10 @@
-body{
+body {
   color: white;
   background: black;
-  margin: 0px
+  margin: 0px;
 }
 
-header{
-  border-bottom: olid 2px rgb(42, 122, 228);
+header {
+  border-bottom: solid 2px rgb(42, 122, 228);
   padding: 20px;
 }
